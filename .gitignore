@@ -1,0 +1,5 @@
+/.idea/
+!/input/.placeholder
+/input/*
+!/output/.placeholder
+/output/*
